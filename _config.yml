@@ -2,29 +2,29 @@
 
 # GENERAL SITE SETTINGS
 # title: This will be displayed as the website's name in your browser tab.
-title: Neumorphism
+title: Ramniwas Mahala Portfolio
 # description: This will be meta HTML tag content. This can be ignored.
-description: Personal website powered by Jekyll
+description: Personal website
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
-baseurl: "/neumorphism"
+baseurl: ""
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
-username: Neumorphism
+username: Sagar Mittal
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Jekyll Theme
+typing_text: Competitive Programmer
 # email: Your E-Mail address for the email button.
-email: email@example.com
+email: ramniwasmahala1006@gmail.com
 # For every social button you want to display, set your username or userid
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
-github_username: longpdo
-codepen_username: exampleUser
-dev_username: exampleUser
-linkedin_username: exampleUser
-twitter_username: exampleUser
+github_username: RamniwasMahala007
+codepen_username: 
+dev_username: 
+linkedin_username: ramniwas-mahala-5a1a5b1a8
+twitter_username: RamniwasMahal14
 
 # ABOUT ME SECTION
 # show_aboutme_card:
@@ -69,7 +69,7 @@ projects_title: Projects
 # show_os_projects:
 # > setting this to true, will display your public projects on github
 # > setting this to false, will omit your public projects on github
-show_os_projects: true
+show_os_projects: false
 # os_projects_title: The will be displayed as the title of your open source projects
 os_projects_title: Open Source Projects
 
@@ -110,7 +110,7 @@ projects:
 # Set the id, if you want to track your website with Google Analytics
 # > set this to "", if you do not want to track with Google Analytics
 google-analytics:
-  id: "UA-158757509-2"
+  id: ""
 
 ### END OF VALUES YOU SHOULD CHANGE ###
 
